@@ -1,0 +1,21 @@
+{
+  "name": "VYNTARA",
+  "symbol": "VYNTARA",
+  "description": "Structured Market Tokens",
+  "image": "https://raw.githubusercontent.com/Aquas2/ORCHIVA/refs/heads/main/ORCHIVA.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Aquas2/ORCHIVA/refs/heads/main/ORCHIVA.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AWGrw1zUFbDmbcs3ZHCVu8TLnoZkBNPSQvRhA2XWP71h",
+        "share": 100
+      }
+    ]
+  }
+}
